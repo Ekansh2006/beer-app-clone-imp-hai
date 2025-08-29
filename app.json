@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "BEER APP Clone imp hai",
-    "slug": "beer-app-home-screen-395g5r1c-oqtho9jn-erxcgld6-w7bwr0kg-rvpmasnm",
+    "slug": "beer-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -15,7 +15,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "app.rork.beer-app-home-screen-395g5r1c-oqtho9jn-erxcgld6-w7bwr0kg-rvpmasnm",
+      "bundleIdentifier": "com.ekansh.beerapp",
       "infoPlist": {
         "NSPhotoLibraryUsageDescription": "Allow $(PRODUCT_NAME) to access your photos",
         "NSCameraUsageDescription": "Allow $(PRODUCT_NAME) to access your camera",
@@ -27,7 +27,10 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "app.rork.beer-app-home-screen-395g5r1c-oqtho9jn-erxcgld6-w7bwr0kg-rvpmasnm",
+      "package": "com.ekansh.beerapp",
+      "versionCode": 1,
+      "compileSdkVersion": 34,
+      "targetSdkVersion": 34,
       "permissions": [
         "CAMERA",
         "READ_EXTERNAL_STORAGE",
